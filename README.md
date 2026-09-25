@@ -12,6 +12,6 @@ Advanced Excel (Pivot, XLOOKUP, VLOOKUP, INDEX-MATCH) | Power BI | SQL | Data Cl
 2.  **Meta Ads Campaign Performance Dashboard** - Power BI (216K+ Impressions)
 3.  **Customer Data Analysis** - SQL
 
-**Contact:** shriidevi.m@gmail.com | LinkedIn: linkedin.com/in/sridevi-m
+**Contact:** shriidevi.m@gmail.com | LinkedIn: www.linkedin.com/in/sri-devi-3b05a2354
 
 Open for: MIS Executive, Operations Analyst, Data Analyst, Business Analyst (Fresher) roles in Bangalore.
